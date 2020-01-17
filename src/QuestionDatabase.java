@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class QuestionDatabase {
 
@@ -19,9 +16,18 @@ public class QuestionDatabase {
     }
     public void randomizeTenQuestions() {
         Collections.shuffle(qList);
-        for (int i = 0; qList.size() == 9 ; i++) {
-            qList.remove(i);
+        Iterator<Question> ite = qList.iterator();
+        int i = 0;
+        while(ite.hasNext()) {
+            if(qList.size()>=11){
+                ite.next();
+                ite.remove();
+            }
+            else {
+                break;
+            }
         }
+
 
     }
     public void saveQuestions(Map<String, Boolean> m) {
