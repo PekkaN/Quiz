@@ -20,6 +20,7 @@ public class UI {
         System.out.println("Enter your name: ");
         String name = reader.nextLine();
         int counter = 0;
+        db.randomizeTenQuestions();
         for(Question q : db.getQuestions()) {
             System.out.println(q.getQuestion());
             System.out.println("(t)rue or (f)alse");
