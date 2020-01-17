@@ -17,7 +17,6 @@ public class UI {
         for (String ss : qMap.keySet()) {
             db.addQuestion(new Question(ss, qMap.get(ss)));
         }
-        db.randomizeTenQuestions();
         System.out.println("Enter your name: ");
         String name = reader.nextLine();
         int counter = 0;
@@ -30,7 +29,7 @@ public class UI {
                 banswer = false;
             }
             else if(answer.equalsIgnoreCase("t")) {
-                banswer = true
+                banswer = true;
             }
 
             if(q.isAnswer() == banswer) {
