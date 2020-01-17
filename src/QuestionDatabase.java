@@ -15,7 +15,6 @@ public class QuestionDatabase {
         this.qList.add(q);
     }
     public List<Question> getQuestions() {
-        randomizeTenQuestions();
         return this.qList;
     }
     public void randomizeTenQuestions() {
@@ -23,6 +22,7 @@ public class QuestionDatabase {
         for (int i = 0; qList.size() == 9 ; i++) {
             qList.remove(i);
         }
+
     }
     public void saveQuestions(Map<String, Boolean> m) {
         for(String s : m.keySet()) {

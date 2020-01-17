@@ -2,7 +2,7 @@
 Jorma on hieno mies!/!false!/!
 Dachshunds come in four sizes.!/!false!/!
 Piebald-patterned dachshunds will never have blue in their eyes, unless the dapple pattern is present.!/!true!/!
-Dachshunds rank 3rd in Stanley Coren's Intelligence of Dogs.1/!false!/!
+Dachshunds rank 3rd in Stanley Coren's Intelligence of Dogs.!/!false!/!
 Dachshund with the name Waldi was the official mascot for the 1972 Summer Olympics in Munich.!/!true!/!
 Wiener Nationals is a well known dachshund race.!/!true!/!
 In Germany, dachshunds are widely called Hot Dog dogs.!/!false!/!
