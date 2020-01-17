@@ -1,8 +1,10 @@
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 
 public class QuestionDatabase {
+
     private List<Question> qList;
 
     public QuestionDatabase() {
@@ -17,7 +19,10 @@ public class QuestionDatabase {
         return this.qList;
     }
     public void randomizeTenQuestions() {
-
+        Collections.shuffle(qList);
+        for (int i = 0; qList.size() == 10 ; i++) {
+            qList.remove(i)
+        }
     }
     public void saveQuestions(Map<String, Boolean> m) {
         for(String s : m.keySet()) {
