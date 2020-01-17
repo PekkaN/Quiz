@@ -1,2 +1,17 @@
-Särki on kala?!/!true!/!
+﻿Särki on kala?!/!true!/!
 Jorma on hieno mies!/!false!/!
+Dachshunds come in four sizes.!/!false
+Piebald-patterned dachshunds will never have blue in their eyes, unless the dapple pattern is present.!/!true!/!
+Dachshunds rank 3rd in Stanley Coren's Intelligence of Dogs.1/!false!/!
+Dachshund with the name Waldi was the official mascot for the 1972 Summer Olympics in Munich.!/!true!/!
+Wiener Nationals is a well known dachshund race.!/!true!/!
+In Germany, dachshunds are widely called Hot Dog dogs.!/!false!/!
+Dachshunds are one of the most popular dogs in the United States, ranking 13th in the 2025 AKC registration statistics.!/! false!/!
+In Zelenogorsk, Russia, a parade of Dachshunds pass by a Dachshund monument every July 25 to commemorate the day the city was founded.!/!true!/!
+Carole Lombard and Clark Gable had a dachshund named Commissioner.!/!true!/!
+Crusoe the Celebrity Dachshund won the People's Choice Awards Animal Star of 2018.!/!true!/!
+About 75% of dachshunds will develop IVDD.!/!false!/!
+Light-colored dachshunds can sport amber, light brown, or green eyes.!/!true!/!
+A full-grown standard dachshund averages 2 kg to 15 kg.!/!false!/!
+If a dachshund has only single spot of dapple, it is a dapple.!/!true!/!
+Dachshunds can be aggressive to postmen.!/!true!/!
