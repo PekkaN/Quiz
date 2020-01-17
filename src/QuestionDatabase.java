@@ -20,7 +20,7 @@ public class QuestionDatabase {
     }
     public void randomizeTenQuestions() {
         Collections.shuffle(qList);
-        for (int i = 0; qList.size() == 10 ; i++) {
+        for (int i = 0; qList.size() == 9 ; i++) {
             qList.remove(i);
         }
     }
