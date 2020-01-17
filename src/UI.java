@@ -14,8 +14,8 @@ public class UI {
         this.reader = s;
         ReadWrite rw = new ReadWrite();
         Map<String, Boolean> qMap = rw.readQuestions("data/questions.txt");
-        for (String s : qMap) {
-            db.addQuestion(new Question(s, qMap.get(s)));
+        for (String ss : qMap.keySet()) {
+            db.addQuestion(new Question(ss, qMap.get(ss)));
         }
         db.randomizeTenQuestions();
         System.out.println("Enter your name: ");
