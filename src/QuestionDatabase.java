@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.Map;
 
 public class QuestionDatabase {
-    ReadWrite.()
 
     private List<Question> qList;
 
