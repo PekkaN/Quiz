@@ -1,6 +1,6 @@
 ﻿Särki on kala?!/!true!/!
 Jorma on hieno mies!/!false!/!
-Dachshunds come in four sizes.!/!false
+Dachshunds come in four sizes.!/!false!/!
 Piebald-patterned dachshunds will never have blue in their eyes, unless the dapple pattern is present.!/!true!/!
 Dachshunds rank 3rd in Stanley Coren's Intelligence of Dogs.1/!false!/!
 Dachshund with the name Waldi was the official mascot for the 1972 Summer Olympics in Munich.!/!true!/!
