@@ -1,0 +1,2 @@
+Särki on kala?!/!true!/!
+Jorma on hieno mies!/!false!/!
